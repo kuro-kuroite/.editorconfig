@@ -40,6 +40,10 @@ quote_type = single
 indent_style = ignore
 insert_final_newline = ignore
 
+[*.json]
+
+insert_final_newline = ignore
+
 [*.md]
 
 indent_size = 4
