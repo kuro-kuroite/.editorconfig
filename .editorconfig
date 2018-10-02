@@ -35,6 +35,11 @@ spaces_around_operators = true
 spaces_around_brackets = outside
 quote_type = single
 
+[**.min.js]
+
+indent_style = ignore
+insert_final_newline = ignore
+
 [*.md]
 
 indent_size = 4
