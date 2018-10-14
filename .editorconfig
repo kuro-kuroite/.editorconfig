@@ -13,13 +13,13 @@ insert_final_newline = true
 max_line_length = 80
 trim_trailing_whitespace = true
 
-[*.{css, scss}]
+[*.{css, scss, styl}]
 curly_bracket_next_line = false
 spaces_around_operators = true
 spaces_around_brackets = outside
 quote_type = auto
 
-[*.{html, slim}]
+[*.{html, slim, pug}]
 spaces_around_operators = true
 spaces_around_brackets = both
 quote_type = auto
