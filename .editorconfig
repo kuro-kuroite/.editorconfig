@@ -49,3 +49,6 @@ spaces_around_operators = true
 [*.py]
 indent_size = 4
 spaces_around_brackets = outside
+
+[COMMIT_EDITMSG]
+max_line_length = 0
