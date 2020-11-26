@@ -34,9 +34,6 @@ quote_type = single
 indent_style = ignore
 insert_final_newline = ignore
 
-[*.json]
-insert_final_newline = ignore
-
 [*.md]
 max_line_length = 0
 trim_trailing_whitespace = false
